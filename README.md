@@ -1,4 +1,4 @@
-# 🎬 IMDB Top Movies Ratings Analysis
+# 🎬 IMDB Vintage Movies Ratings Analysis
 
 A data analysis project focused on discovering what makes a movie successful on IMDB — exploring genres, directors, writers, runtime, and audience engagement.
 
